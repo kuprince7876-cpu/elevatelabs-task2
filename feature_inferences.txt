@@ -1,0 +1,17 @@
+FEATURE-LEVEL INFERENCES FROM EDA
+========================================
+
+Age: Mean = 29.70, Median = 28.00
+  -> Age distribution is right-skewed (more younger passengers)
+
+Fare: Mean = 32.20, Median = 14.45
+  -> Fare distribution is right-skewed (few passengers paid very high fares)
+
+Overall Survival Rate: 38.38%
+Female Survival Rate: 74.20%
+Male Survival Rate: 18.89%
+  -> Females had significantly higher survival rate than males
+Class 1 Survival Rate: 62.96%
+Class 2 Survival Rate: 47.28%
+Class 3 Survival Rate: 24.24%
+  -> Survival rate decreases with passenger class (1st > 2nd > 3rd)
